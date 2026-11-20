@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ghaniyyirrahmans.vercel.app"),
+  metadataBase: new URL("https://ghaniyyrahmans.me"),
   alternates: { canonical: "/" },
   title: {
     default: "Ghaniyyir Rahman Sudarsono | Backend Developer",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   icons: { icon: "/icon.png" },
   openGraph: {
     type: "website",
-    url: "https://ghaniyyirrahmans.vercel.app",
+    url: "https://ghaniyyrahmans.me",
     title: "Ghaniyyir Rahman Sudarsono | Backend Developer",
     description:
       "Explore the projects, technical skills, and experience of backend developer Ghaniyyir Rahman Sudarsono.",
