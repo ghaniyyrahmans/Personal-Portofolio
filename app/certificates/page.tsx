@@ -2,6 +2,13 @@ import Navbar from "@/components/Navbar";
 import Certificates from "@/components/Certificates";
 import Footer from "@/components/Footer";
 import Link from 'next/link';
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Certificates",
+  description:
+    "View professional and technical certificates earned by Ghaniyyir Rahman Sudarsono.",
+};
 
 export default function CertificatesPage() {
   return (

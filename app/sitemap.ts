@@ -1,0 +1,12 @@
+import type { MetadataRoute } from "next";
+
+const siteUrl = "https://ghaniyyirrahmans.vercel.app";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  return [
+    { url: siteUrl, changeFrequency: "monthly", priority: 1 },
+    { url: `${siteUrl}/about`, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${siteUrl}/projects`, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${siteUrl}/certificates`, changeFrequency: "monthly", priority: 0.7 },
+  ];
+}

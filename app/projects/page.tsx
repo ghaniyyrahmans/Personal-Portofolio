@@ -2,6 +2,13 @@ import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
 import Footer from "@/components/Footer";
 import Link from 'next/link';
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Projects",
+  description:
+    "Browse backend, full-stack, database, and web application projects built by Ghaniyyir Rahman Sudarsono.",
+};
 
 export default function ProjectsPage() {
   return (

@@ -20,13 +20,13 @@ export default function Footer() {
             <Link href="https://www.youtube.com/@GhaniRahmans" target="_blank" className={styles.socialIcon}>
               <i className="ri-youtube-line"></i>
             </Link>
-            <Link href="https://www.instagram.com/ghani.rahmans/" target="_blank" className={styles.socialIcon}>
+            <Link href="https://www.instagram.com/ghaniyyrahmans/" target="_blank" className={styles.socialIcon}>
               <i className="ri-instagram-line"></i>
             </Link>
-            <Link href="https://www.linkedin.com/in/ghaniyyir-rahmans/" target="_blank" className={styles.socialIcon}>
+            <Link href="https://www.linkedin.com/in/ghaniyyrahmans/" target="_blank" className={styles.socialIcon}>
               <i className="ri-linkedin-line"></i>
             </Link>
-            <Link href="https://github.com/ghanirahmans" target="_blank" className={styles.socialIcon}>
+            <Link href="https://github.com/ghaniyyrahmans" target="_blank" className={styles.socialIcon}>
               <i className="ri-github-line"></i>
             </Link>
           </div>

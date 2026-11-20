@@ -25,16 +25,16 @@ export default function About() {
             <Link href="mailto:ghaniyyirrahmansn@gmail.com" className="btn">
               <i className="ri-mail-send-line"></i> Email Me
             </Link>
-            <Link href="https://github.com/ghanirahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+            <Link href="https://github.com/ghaniyyrahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
               <i className="ri-github-fill"></i> GitHub
             </Link>
-            <Link href="https://linkedin.com/in/ghaniyyir-rahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+            <Link href="https://www.linkedin.com/in/ghaniyyrahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
               <i className="ri-linkedin-fill"></i> LinkedIn
             </Link>
             <Link href="https://youtube.com/@GhaniRahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
               <i className="ri-youtube-fill"></i> YouTube
             </Link>
-            <Link href="https://instagram.com/ghani.rahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+            <Link href="https://www.instagram.com/ghaniyyrahmans" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
               <i className="ri-instagram-fill"></i> Instagram
             </Link>
           </div>
